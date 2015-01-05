@@ -21,6 +21,7 @@ proguard-project.txt
 
 # IntelliJ project files
 *.iws
+*.iml
 */.idea/workspace.xml
 */.idea/tasks.xml
 
